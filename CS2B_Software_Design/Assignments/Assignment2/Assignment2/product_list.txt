@@ -1,0 +1,20 @@
+Panasonic DVD Player;5;125.99;D 
+Sony DVD Player;43;125.99;N
+Panasonic Camcoder;125;395.99;U
+Apple TV;15;298.99;R    
+Samsung Phone 6;1200;399;N
+Apple DVD Player;3;123.39;R 
+Samsung DVD Player;23;126.69;U
+Sony Camcoder;125;95.99;U
+Samsung TV;15;298.79;R    
+Apple iPhone 6;1200;3.89;D
+Toshiba DVD Player;19;119.09;N 
+Vizio DVD Player;23;180.39;U
+Google Camcoder;1;95.99;R
+Sonny TV;15;98.79;N    
+Apple iPhone 6;1200;49.99;D
+Panasonic DVD Player;13;100.99;R 
+Google DVD Player;3;25.99;D
+Toshiba Camcoder;51;35.69;N
+Panasonic TV;44;268.19;N    
+Apple Camcoder;6;12.77;D

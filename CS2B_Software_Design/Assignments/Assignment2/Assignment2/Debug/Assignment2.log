@@ -1,0 +1,4 @@
+﻿  index.cpp
+c:\users\solis\desktop\foothill fall\software design c++\assignments\assignment2\assignment2\index.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\solis\desktop\foothill fall\software design c++\assignments\assignment2\assignment2\index.cpp(132): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment2.vcxproj -> C:\Users\solis\Desktop\Foothill Fall\Software Design C++\Assignments\Assignment2\Debug\Assignment2.exe

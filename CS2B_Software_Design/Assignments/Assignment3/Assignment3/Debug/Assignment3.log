@@ -1,0 +1,2 @@
+﻿Index.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Property::ShowPropertyInfo(void)const " (?ShowPropertyInfo@Property@@UBEXXZ)
+C:\Users\solis\Desktop\Foothill Fall\Software Design C++\Assignments\Assignment3\Debug\Assignment3.exe : fatal error LNK1120: 1 unresolved externals
