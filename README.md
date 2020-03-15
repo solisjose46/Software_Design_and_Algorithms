@@ -201,13 +201,75 @@ Splay tree
 
 ## Project 5
 Hash table
+## Sample Output:
+See end of submission in project_5.cpp
 
+## Project 6
+Implemented sorting algorithms, such as shell sort, and investigated their run times
+## Sample Output:
+//-----------------------RUN ArraySize 10,000------------------------
+//initialize and display sedgewick
+//0: 1
+//1 : 19
+//2 : 109
+//3 : 505
+//4 : 2161
+//5 : 8929
+//6 : 36289
+//7 : 146305
+//8 : 587521
+//9 : 2354689
+//10 : 9427969
+//11 : 37730305
+//12 : 150958081
+//13 : 603906049
+//------------------------------------------------
+//shellSort1 time : 0.028 seconds
+//gapArray time : 0.052 seconds
+//Sedgewick time : 0.024 seconds
+//Marcin time : 0.014 seconds
+//-----------------------RUN ArraySize 41,000------------------------
+//shellSort1 time : 0.154 seconds
+//gapArray time : 0.348 seconds
+//Sedgewick time : 0.128 seconds
+//Marcin time : 0.067 seconds
+//-----------------------RUN ArraySize 72,000------------------------
+//shellSort1 time : 0.248 seconds
+//gapArray time : 0.702 seconds
+//Sedgewick time : 0.215 seconds
+//Marcin time : 0.137 seconds
+//-----------------------RUN ArraySize 103,000------------------------
+//shellSort1 time : 0.354 seconds
+//gapArray time : 1.268 seconds
+//Sedgewick time : 0.316 seconds
+//Marcin time : 0.244 seconds
+//-----------------------RUN ArraySize 134,000------------------------
+//shellSort1 time : 0.467 seconds
+//gapArray time : 2.167 seconds
+//Sedgewick time : 0.464 seconds
+//Marcin time : 0.269 seconds
+//-----------------------RUN ArraySize 200,000------------------------
+//shellSort1 time : 0.828 seconds
+//gapArray time : 2.833 seconds
+//Sedgewick time : 0.609 seconds
+//Marcin time : 0.405 seconds
+//------------------------Citation--------------------------
+//credit for MarcinArray(how do you cite a paper in a cpp?),
+//Best Increments for the Average Case of Shellsort by Marin Ciura
+//Department of Computer Science, Silesian Institute of Technology
+//-----------------------HW Question---------------------------
+//As explained in the module, gapArray's gaps are calculated by
+//the formula 2k. This will result in only even gaps computed
+//(powers of 2) which will result in even postions not mixing
+//w/ odd until the final pass when N = 1 which is just
+//insertion sort. = slow
+//For shellsort1, the default gap sequence, gap = N/2,
+//computes gaps that are not only powers of 2. This variety is why
+//shellsort1 is faster.
+//Overall, Marcin > Sedgewick > shellSort1 > gapArray
+//-------------------------------END of SUBMISSION----------------
 
-
-
-
-
-
-
-
-
+## Project 7
+Implemented Quick Sort algorithm and investigated run time
+## Sample Output:
+See end of submission in project_7.cpp
